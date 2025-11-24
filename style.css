@@ -2,7 +2,7 @@
 
 [class^='container']{
     border: 1px dashed black;
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
     min-height: 80vh;
 }
 
@@ -15,4 +15,12 @@
     height: 100px;
     background-color: darksalmon;
     border: 1px solid cornflowerblue;
+}
+
+.titolo{
+    padding: 5px;
+}
+
+.gray{
+    color: gray;
 }
