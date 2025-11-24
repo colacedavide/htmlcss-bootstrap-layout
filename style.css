@@ -1,0 +1,17 @@
+/* DEBUG */
+
+[class^='container']{
+    border: 1px dashed black;
+    background-color: lightblue;
+    min-height: 80vh;
+}
+
+[class^='row']{
+    border: 1px dashed red;
+}
+
+[class^='col']{
+    height: 100px;
+    background-color: darksalmon;
+    border: 1px solid cornflowerblue;
+}
